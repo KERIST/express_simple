@@ -4,4 +4,4 @@ How to make it work?
 
  > npm start
 
-Server works at localhost:8000 by default
+Server works at [localhost:8000](http://localhost:8000/) by default
